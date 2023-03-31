@@ -1,6 +1,6 @@
 Name:		texlive-texvc
 Version:	46844
-Release:	1
+Release:	2
 Summary:	Use MediaWiki LaTeX commands
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/texvc
